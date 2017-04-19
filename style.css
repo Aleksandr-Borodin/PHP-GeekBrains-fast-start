@@ -1,0 +1,17 @@
+footer {
+  text-align: center;
+}
+
+.stat {
+  margin: 50px 0 30px;
+}
+
+.admin-table {
+  width: 100%;
+}
+
+.form-item {
+  display: block;
+  width: 50%;
+  margin: 10px;
+}
